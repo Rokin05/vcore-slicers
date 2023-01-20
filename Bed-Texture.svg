@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300px"
+   height="300px"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg159"
+   sodipodi:docname="Bed-Texture-300x300-b.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+  <sodipodi:namedview
+     id="namedview161"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.1466667"
+     inkscape:cx="156.67373"
+     inkscape:cy="60.063559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1668" />
+  <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Bed-Texture</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g1668">
+    <rect
+       id="Rectangle-1"
+       sketch:type="MSShapeGroup"
+       x="140.22287"
+       y="6.2920518"
+       width="300"
+       height="300"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <rect
+       id="rect155"
+       stroke="#000000"
+       stroke-width="1.98679"
+       sketch:type="MSShapeGroup"
+       x="0.99337733"
+       y="0.99337733"
+       width="298.01321"
+       height="298.01321"
+       style="fill:#1e1e1e;fill-rule:evenodd;stroke-width:1;stroke-dasharray:none;fill-opacity:1" />
+    <g
+       id="Rat"
+       transform="matrix(0.3705519,0,0,0.3705519,256.02785,5.7489161)"
+       stroke="#a4a4a4"
+       stroke-width="2"
+       sketch:type="MSShapeGroup"
+       style="fill:none;fill-rule:evenodd;stroke:#99f321;stroke-opacity:1">
+      <path
+         d="m 53.186302,68.893497 c -1.441486,1.842769 -2.616236,5.834915 -1.010334,11.02777 1.73566,5.61244 6.850558,13.124352 10.385461,17.915643 2.843044,3.85353 4.39459,5.81507 4.39459,4.61854 0,-4.937133 0.516621,-16.338654 0.516621,-16.338654 0,0 -4.965538,-9.038001 -7.629649,-13.066221 -1.377626,-2.083014 -4.495563,-5.267481 -4.495563,-5.267481 0,0 -1.243334,-0.06289 -2.161126,1.110403 z"
+         id="Path-1"
+         style="stroke:#99f321;stroke-opacity:1" />
+      <path
+         d="m 28.47954,24.47588 c -0.833328,1.037484 -2.961633,3.563209 -4.406346,5.164699 -1.691648,1.875221 -2.655442,2.765759 -2.655442,2.765759 0,0 -1.02382,-0.608146 -2.225327,-3.472269 -1.321699,-3.150635 -2.856816,-8.650164 -3.443635,-10.236261 -1.015433,-2.744589 -0.738158,-3.609111 -0.738158,-3.609111 0,0 7.754045,2.973125 10.523205,4.382534 0.835571,0.425278 1.849409,0.862391 2.509258,1.391319 0.949527,0.761133 1.388907,1.566138 1.388907,1.566138 0,0 -0.09014,0.973605 -0.952462,2.047192 z"
+         id="Path-2"
+         style="stroke:#99f321;stroke-opacity:1" />
+      <g
+         id="Path-3-+-Line"
+         style="stroke:#99f321;stroke-opacity:1">
+        <path
+           d="M 99.808146,14.80326 33.32444,14.824962 0.28513599,0.06811917 55.306134,138.15803 c 0,0 -0.304321,0.49078 -1.954357,0.62724 -5.986344,0.4951 -20.954783,1.26744 -20.954783,1.26744 0,0 15.720544,-0.0865 22.222523,0.69054 2.055818,0.24567 3.450869,2.37753 3.450869,2.37753 0,0 0.927396,3.10922 -0.716457,4.21887 -1.8107,1.22228 -10.535152,4.73217 -13.580129,6.22869 -6.029133,2.96314 -6.822768,3.80864 -6.822768,3.80864 0,0 1.114753,0.0353 2.134602,-0.31226 4.256215,-1.4504 12.527849,-4.99323 17.369484,-6.7649 2.874572,-1.05187 3.905097,-0.90002 3.905097,-0.90002 0,0 0.982388,2.03896 1.262314,2.86433 0.245134,0.72278 0.312866,1.78014 0.312866,1.78014 0,0 -0.724782,2.22088 -1.57518,3.33271 -1.968715,2.57396 -6.291262,7.21741 -9.028503,10.49427 -3.021102,3.61668 -4.372286,5.75306 -4.372286,5.75306 0,0 4.093434,-3.50572 5.33138,-4.65622 2.934023,-2.72677 7.221195,-7.2141 9.644589,-9.55477 1.182935,-1.14255 1.836505,-1.41392 1.836505,-1.41392 0,0 3.308214,7.16725 4.537762,9.17589 3.615554,5.90654 9.997543,14.56967 9.997543,14.56967 l 21.593776,-0.0543"
+           id="Path-3"
+           style="stroke:#99f321;stroke-opacity:1" />
+        <path
+           d="M 99.384059,15.123661 V 181.48393"
+           id="path130"
+           stroke-linecap="square"
+           style="stroke:#99f321;stroke-opacity:1" />
+      </g>
+      <path
+         d="m 99.370496,185.42336 c 0,0 -11.142217,-0.15527 -16.111088,0 -0.712148,0.0223 -0.931967,0.5326 -0.931967,0.5326 0,0 -0.363308,1.37764 0.528376,2.14696 1.996248,1.7223 6.030728,8.89017 9.086374,11.18149 1.999806,1.49958 3.592928,1.33161 4.883481,1.31054 1.443593,-0.0236 2.469169,0 2.469169,0 z"
+         id="Path-4"
+         style="stroke:#99f321;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
